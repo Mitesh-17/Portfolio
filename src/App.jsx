@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App min-h-screen flex flex-col">
+
       <Header />
 
       <main className="flex-grow ">
